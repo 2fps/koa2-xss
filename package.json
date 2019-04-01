@@ -1,0 +1,26 @@
+{
+  "name": "koa2-xss",
+  "version": "0.0.3",
+  "description": "koa2 xss middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2fps",
+  "license": "MIT",
+  "dependencies": {
+    "xss": "^1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2fps/koa2-xss.git"
+  },
+  "keywords": [
+    "xss",
+    "koa2"
+  ],
+  "bugs": {
+    "url": "https://github.com/2fps/koa2-xss/issues"
+  },
+  "homepage": "https://github.com/2fps/koa2-xss#readme"
+}
